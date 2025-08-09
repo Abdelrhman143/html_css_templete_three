@@ -14,8 +14,7 @@ It can be used to experiment with layouts, typography, colors, and other styling
 ---
 
 ## 🚀 Live Demo
-[View Template]([https://your-live-link-here.com](https://abdelrhman143.github.io/html_css_templete_three/)
+[View Template](https://abdelrhman143.github.io/html_css_templete_three/)
+
 
 ---
-
-
